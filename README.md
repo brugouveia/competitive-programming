@@ -1,7 +1,9 @@
-## Graph Problem Solutions - Online Judge
+# Competitive Programming
 
-This repository contains solutions to some graph problems solved on the **Online Judge** platform.
+This repository contains my solutions to some competitive programming problems from various online judges.
 
-<br/>
+## Platforms
 
-[Check out the list of problems](<https://uhunt.onlinejudge.org/id/1306436>)
+- Codeforces: [My profile](https://codeforces.com/profile/BrunaGouveia)
+- UVa Online Judge: [My profile](https://uhunt.onlinejudge.org/id/1306436)
+- CSES: [My profile](https://cses.fi/user/424377)
